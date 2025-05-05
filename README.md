@@ -1,8 +1,8 @@
-## 👋 Hello, I'm a business and data analyst.
+#### 👋 Hello, I'm a business and data analyst.
 
 ✨ I'm also a passionate visual learner so I have a keen interest in data visualisation.
 
-😄 Visit my page [https://czemtsop.github.io/#skills]((here)) for more information about me.
+😄 Visit my page [(here)](https://czemtsop.github.io/#skills) for more information about me.
 
 <!--
 **czemtsop/czemtsop** is a  ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
