@@ -1,8 +1,45 @@
-#### 👋 Hello, I'm a business and data analyst.
+# Hi, I'm Carine 👋
 
-✨ I'm also a passionate visual learner so I have a keen interest in data visualisation.
+**Business Intelligence Analyst** · SQL · Python · Power BI · Metabase · Canada
 
-😄 Visit my page [(here)](https://czemtsop.github.io/#skills) for more information about me.
+I turn operational data into reports and dashboards that people use to make decisions, with a focus on financial services and microfinance.
+
+As a BI Analyst at a fintech serving microfinance institutions, I:
+
+- led a BI platform migration (Yellowfin → Jaspersoft) that saved **$100K+** in licence costs
+- optimized queries to cut compute costs by **75%** (report load time 10 s → 2.5 s)
+- audited the data warehouse, cutting customer complaints by **90%** in a month
+
+---
+
+## 📂 Projects
+
+| Project | What it shows | Tools |
+|---|---|---|
+| [**Data Job Market Analysis**](https://github.com/czemtsop/data-jobs) | End-to-end pipeline: scrapes data-job postings, cleans them, and benchmarks salaries and in-demand skills by role and experience level | Python, pandas, BeautifulSoup, Seaborn |
+| [**SQL Case Studies**](https://github.com/czemtsop/serious-sql) | Business questions answered in SQL: personalized recommendations for a marketing campaign, and the datasets behind an HR dashboard | PostgreSQL |
+| **Cooperative Financial System** *(private)* | Financial management system for a savings and credit cooperative: double-entry accounting and automated monthly interest and penalty calculations | Python, Django, PostgreSQL |
+
+🚧 **Currently building:** a KPI dashboard for a savings and credit cooperative (deposit compliance, delinquency, portfolio at risk).
+
+---
+
+## 🧰 Toolkit
+
+**Data:** SQL (PostgreSQL), Python (pandas, NumPy), R, SAS, Excel
+**BI:** Power BI, Metabase, Jaspersoft, Tableau
+**Also:** ETL, data modelling, requirements gathering, financial and regulatory reporting
+
+## 🎓 Background
+
+- MSc Operations Research, Applied Statistics & Financial Risk Analysis, Cardiff University
+- Certified Analytics Professional (CAP Expert), INFORMS
+- Dissertation: implemented iterated prisoner's dilemma strategies in [Axelrod](https://github.com/Axelrod-Python/Axelrod), an open-source Python game theory library
+- Works in English and French
+
+## 📫 Contact
+
+[Portfolio](https://czemtsop.github.io) · [LinkedIn](https://www.linkedin.com/in/czemtsop) · [Email](mailto:caddycarine@yahoo.co.uk)
 
 <!--
 **czemtsop/czemtsop** is a  ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
