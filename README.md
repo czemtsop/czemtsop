@@ -17,10 +17,9 @@ As a BI Analyst at a fintech serving microfinance institutions, I:
 | Project | What it shows | Tools |
 |---|---|---|
 | [**Data Job Market Analysis**](https://github.com/czemtsop/data-jobs) | End-to-end pipeline: scrapes data-job postings, cleans them, and benchmarks salaries and in-demand skills by role and experience level | Python, pandas, BeautifulSoup, Seaborn |
+| [**Cooperative KPI Dashboard**](https://github.com/czemtsop/cooperative-KPI) | a KPI dashboard for a savings and credit cooperative (deposit compliance, delinquency, portfolio at risk). | PostgreSQL |
 | [**SQL Case Studies**](https://github.com/czemtsop/serious-sql) | Business questions answered in SQL: personalized recommendations for a marketing campaign, and the datasets behind an HR dashboard | PostgreSQL |
 | **Cooperative Financial System** *(private)* | Financial management system for a savings and credit cooperative: double-entry accounting and automated monthly interest and penalty calculations | Python, Django, PostgreSQL |
-
-🚧 **Currently building:** a KPI dashboard for a savings and credit cooperative (deposit compliance, delinquency, portfolio at risk).
 
 ---
 
