@@ -1,3 +1,5 @@
+**English** | [Français](README.fr.md)
+
 # Hi, I'm Carine 👋
 
 **Business Intelligence Analyst** · SQL · Python · Power BI · Metabase · Canada
